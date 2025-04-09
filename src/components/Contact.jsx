@@ -4,7 +4,7 @@ const Contact = () => (
   <section className="py-8">
     <div className="container">
       <h2 className="text-2xl font-semibold mb-4">Contact Us</h2>
-      <p className="text-gray-700 mb-2">Email: hello@consultingco.com</p>
+      <p className="text-gray-700 mb-2">You can reach us via the contact form below.</p>
       <form className="max-w-md mx-auto space-y-4">
         <input type="text" placeholder="Your Name" className="w-full p-2 border rounded" />
         <input type="email" placeholder="Your Email" className="w-full p-2 border rounded" />
